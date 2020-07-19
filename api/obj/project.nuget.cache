@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "80E1NH4VtBVnPxoZd0Kqpra4GdeOV3jBsYKqucfpnqrxO6zU5eOH1puRVBIYtJXqbc4vX145xvSIJcgUP508ew==",
+  "success": true,
+  "projectFilePath": "/Users/benjamintraves/Documents/dev/demo/MOP/conversion/api/api.csproj",
+  "expectedPackageFiles": [
+    "/Users/benjamintraves/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.5/microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
+    "/Users/benjamintraves/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.5/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.5.nupkg.sha512",
+    "/Users/benjamintraves/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/benjamintraves/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/benjamintraves/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
